@@ -13,7 +13,6 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -60,7 +59,8 @@ I hope to return to this app to make some search engine optimization to the code
 ### Useful resources
 
 - [Resource 1](https://stackoverflow.com) 
-- [Resource 2](https://coursera.org) 
+- [Resource 2](https://coursera.org)
+- [Resource 3](https://www.youtube.com/c/CodeWithHarryhttps://www.youtube.com/c/CodeWithHarry) 
 
 
 
