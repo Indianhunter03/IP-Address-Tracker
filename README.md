@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Take a look at a screenshot of the app here](.images/ScreenshotDemo.jpg)
+![Take a look at a screenshot of the app here](https://github.com/Indianhunter03/IP-Address-Tracker/blob/0be704a31367e2301fb7eba441ba696bf88b0b7a/images/Screenshot%20Demo.jpg)
 
 ### Links
 
