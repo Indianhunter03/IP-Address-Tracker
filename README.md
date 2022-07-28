@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Take a look at here](https://github.com/BelayAdamu/IP_Address_Tracker.git)
+- Solution URL: [Take a look at here](https://github.com/Indianhunter03/IP-Address-Tracker/)
 - Live Site URL: [Add live site URL here](https://belayadamu.github.io/IP_Address_Tracker/)
 
 ## My process
@@ -62,18 +62,13 @@ I hope to return to this app to make some search engine optimization to the code
 - [Resource 1](https://stackoverflow.com) 
 - [Resource 2](https://coursera.org) 
 
-## Author
-
-- Frontend Mentor - [@BelayAdamu](https://www.frontendmentor.io/profile/BelayAdamu)
-- Facebook - [Belay Adamu](https://www.facebook.com/belay.adamu.96)
-- Linkedin - [Belay Adamu](https://www.linkedin.com/in/belay-adamu-442b2614p)
-
 
 
 ## Acknowledgments
 
 As always my deepest gratitudes go to:
 
+Newton SChool
 Fronend Mentor, 
 Coursera,  
 W3schools. 
