@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Take a look at a screenshot of the app here](./images/screen_shot_main.png)
+![Take a look at a screenshot of the app here](./images/screenshot.jpg)
 
 ### Links
 
