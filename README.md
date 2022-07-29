@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Take a look at here](https://github.com/Indianhunter03/IP-Address-Tracker/)
-- Live Site URL: [Add live site URL here](https://belayadamu.github.io/IP_Address_Tracker/)
+- Live Site URL: [Add live site URL here](https://62e3826bd2846950901aae5a--whimsical-alfajores-2ebca4.netlify.app/)
 
 ## My process
 
